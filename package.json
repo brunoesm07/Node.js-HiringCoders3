@@ -1,0 +1,15 @@
+{
+  "name": "pergunta-resposta-node.js",
+  "version": "1.0.0",
+  "description": "Pacote para testar o funcionamento do npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Martins | brmartin",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "query-string": "^7.1.1"
+  }
+}
